@@ -1,0 +1,15 @@
+    1  echo "meu primeiro comando na nuvem" mensagem.txt
+    2  cat mensagem.txt
+    3  echo "meu primeiro comando na nuvem" > mensagem.txt
+    4  cat mensagem.txt
+    5  history > mensagem.txt
+    6  cat mensagem.txt
+    7  history > comandos.txt
+    8  echo "meu primeiro comando na nuvem" > mensagem.txt
+    9  cat mensagem.txt
+   10  echo "hello world!" >> mensagem.txt
+   11  cat mensagem.txt
+   12  echo "boa noite!" >> mensagem.txt
+   13  cat mensagem.txt
+   14  history comandos.txt
+   15  history > comandos.txt
