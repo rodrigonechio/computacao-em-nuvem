@@ -50,7 +50,40 @@ R$750 x 5 = R$3.750
 
 ## Calculando o custo total da utilização da infraestrutura própria ou provedor em nuvem:
 
-### infraestrutura própria:
+### Para o prazo de 20 meses
+
+#### Infraestrutura própria:
 
 - Custo dos servidores: 8 servidores x R$6000 = R$48000
-- Manutenção mensal:  
+- Manutenção mensal: R$2500/mês x 20 meses = R$50000
+
+- Custo total: R$98000
+
+#### Nuvem:
+
+- Custo dos servidores: 8 servidores x R$600 cada servidor por mês: R$4800/mês 
+
+- Custo dos servidores por 20 meses: R$4800 x 20 meses = R$96000
+
+- Custo total: R$96000
+
+### Se o prazo mudasse para 24 meses:
+
+#### Infraestrutura própria:
+
+- Custo dos servidores: 8 servidores x R$6000 = R$48000
+
+- Manutenção mensal: R$2500/mês x 24 meses = R$60000
+
+- Custo total seria de R$108000
+
+#### Nuvem:
+
+- Custo dos servidores: 8 servidores x R$600 cada servidor por mês: R$4800/mês 
+
+- Custo dos servidores por 24 meses: R$4800 x 24 meses = R$115200
+
+- Custo total seria de R$115200
+
+
+Então podemos ver que para o prazo de 20 meses é mais barato utilizar o provedor em nuvem, enquanto para o prazo de 24 meses o recomendado a infraestrutura própria.
