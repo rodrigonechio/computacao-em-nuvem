@@ -54,54 +54,54 @@ R: segurança robusta, automação, monitoramento contínuo, otimização de cus
 
 
 ## 7 - Como usar SVs na nuvem para construir uma infraestrutura de rede?
-R:Usar servidores virtuais para criar camadas isoladas em uma rede virtual, configurando sub-redes, firewalls, balanceadores de carga e gateways
+R: Usar servidores virtuais para criar camadas isoladas em uma rede virtual, configurando sub-redes, firewalls, balanceadores de carga e gateways
 
 ## 8 - Quais são alguns dos casos de uso para SVs na nuvem?
 R: Hospedagem de aplicativos web, Bancos de dados, Ambientes de desenvolvimento e teste.
 
 ## 9 - Como o futuro da computação em nuvem impactará o uso de SVs?
-R: tornará os servidores virtuais mais automatizados, escaláveis e integrados a tecnologias como inteligência artificial, edge computing e containers
+R: Tornará os servidores virtuais mais automatizados, escaláveis e integrados a tecnologias como inteligência artificial, edge computing e containers
 
 -----
 
 # Questionário sobre Serviços de Rede em Provedores de Computação em Nuvem
 
 ## 1 - O que são serviços de rede em provedores de computação em nuvem?
-R:
+R: Recursos de infraestrutura de rede virtualizados que permitem que organizações se conectem de forma segura e confiável à internet e aos seus recursos na nuvem
 
 ## 2 - Quais são os tipos de serviços de rede em nuvem?
-R:
+R: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS)
 
 ## 3 - Quais são os benefícios dos serviços de rede em nuvem?
-R:
+R: Escalabilidade, segurança, flexibilidade, eficiência de custos e maior resiliência.
 
 ## 4 - Quais são algumas das considerações ao escolher serviços de rede em nuvem?
-R:
+R: É essencial avaliar as necessidades específicas da sua organização para garantir que a solução escolhida ofereça a combinação ideal de desempenho, segurança, custo e flexibilidade.
 
 ## 5 - Como os serviços de rede em nuvem podem ser usados para melhorar a segurança da rede?
-R:
+R: Oferecendo ferramentas e práticas mais robustas, flexíveis e escaláveis do que as soluções tradicionais.
 
 ## 6 - Como os serviços de rede em nuvem podem ser usados para melhorar a confiabilidade da rede?
-R:
+R: Por meio de redundância, escalabilidade, gerenciamento automatizado e monitoramento contínuo.
 
 ## 7 - Como os serviços de rede em nuvem podem ser usados para melhorar a eficiência da rede?
-R:
+R: Gerenciamento centralizado, escalabilidade sob demanda, redundância e otimização de desempenho.
 
 --------
 
 ## Questionário sobre Serviços de Rede em Provedores de Computação em Nuvem<img 
 
 ## 1 - O que são serviços de rede em nuvem?
-R:
+R: Recursos de infraestrutura e conectividade que funcionam sobre uma plataforma de nuvem pública ou privada
 
 ## 2 - Quais são os principais tipos de serviços de rede em nuvem?
-R:
+R: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS)
 
 ## 3 - Quais são os benefícios de usar serviços de rede em nuvem?
-R:
+R: Escalabilidade, economia de custos, maior colaboração e segurança aprimorada
 
 ## 4 - Quais são os principais provedores de serviços de rede em nuvem?
-R:
+R: Amazon Web Services (AWS), Microsoft Azure, Plataforma Google Cloud
 
 ## 5 - Quais são alguns dos desafios de usar serviços de rede em nuvem?
-R:
+R: Segurança, complexibilidade, desafios de custo
